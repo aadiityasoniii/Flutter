@@ -1,0 +1,27 @@
+In This Manual we'll know that how we can install flutter on your pc and then make a new code and run it in emulator. So Grab you pen And Paper, and Let's Get Started!!!!
+
+*Installation of Flutter:*
+Official Website: https://docs.flutter.dev/get-started/install/windows/desktop?tab=download
+
+After Going on this Website it will tell Your Pretty much every thing you need to install the Flutter on your Computer i.e. The PC Specification, The Compatible Software you will need to run flutter correctly on your PC.
+
+*Basic specification for Flutter:*
+
+|Requirement	    |Minimum	|Recommended|
+|x86_64 CPU Cores   |	4|	8|
+|Memory in GB       |	8	|16|
+|Display resolution in pixels	|WXGA (1366 x 768)	|FHD (1920 x 1080)|
+|Free disk space in GB|	4.0	|52.0|
+
+*Development tools:*
+
+Download and install the Windows version of the following packages:
+
+*Git for Windows 2.27 or later*to manage source code.
+*Visual Studio 2022* to debug and compile native C++ Windows code. Make sure to install the* Desktop development with C++* workload. This enables building Windows app including all of its default components. *Visual Studio* is an IDE separate from *Visual Studio Code*.
+
+*Configure a text editor or IDE:*
+- Visual Studio Code 1.77 or later with the Flutter extension for VS Code.
+- Android Studio 2023.1 (Hedgehog) or later with the Flutter plugin for IntelliJ.
+- IntelliJ IDEA 2023.1 or later with the Flutter plugin for IntelliJ.
+
